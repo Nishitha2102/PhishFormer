@@ -652,28 +652,6 @@ npm install
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📞 Support & Contact
-
-- **GitHub Issues**: [Report bugs or request features](https://github.com/Nishitha2102/PhishFormer/issues)
-- **Email**: [Your contact email]
-- **Live Demo**: https://phish66.netlify.app
-
----
-
 ## 📚 Additional Resources
 
 - [Flask Documentation](https://flask.palletsprojects.com/)
@@ -695,12 +673,4 @@ This project implements research on:
 
 ---
 
-<div align="center">
 
-**Made with ❤️ by Nishitha2102**
-
-⭐ If you found this project helpful, please give it a star!
-
-[Live Demo](https://phish66.netlify.app) • [GitHub](https://github.com/Nishitha2102/PhishFormer) • [Report Issue](https://github.com/Nishitha2102/PhishFormer/issues)
-
-</div>
